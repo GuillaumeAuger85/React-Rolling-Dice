@@ -1,0 +1,21 @@
+.RollDice{
+    margin-top:5%
+}
+
+.RollDice-deck{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.RollDice-Button{
+    padding: 10px 80px;
+    border-radius: 10px;
+    color:#FFF;
+    background-color: slateblue;
+}
+
+.RollDice-Button:hover{
+    background-color: #000;
+    cursor: pointer;
+}

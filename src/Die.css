@@ -1,0 +1,55 @@
+.Die {
+    font-size: 10em;
+    padding: 0.25em;
+    color: slateBlue;
+}
+
+
+
+
+.isRolling {
+    animation: anime 1s linear;
+}
+
+@keyframes anime {
+    0% {
+        transform: rotate3d(0, 1, 0, 180deg) rotate(10deg);
+
+    }
+
+    20% {
+        transform: rotate3d(0, 1, 0, 360deg) rotate(20deg);
+    }
+
+    30% {
+        transform: rotate3d(0, 1, 0, 180deg) rotate(45deg);
+    }
+
+    40% {
+        transform: rotate3d(0, 1, 0, 360deg) rotate(45deg);
+    }
+
+    50% {
+        transform: rotate3d(0, 1, 0, 180deg) rotate(45deg);
+    }
+
+    60% {
+        transform: rotate3d(0, 1, 0, 360deg) rotate(45deg);
+    }
+
+    70% {
+        transform: rotate3d(0, 1, 0, 180deg) rotate(45deg);
+    }
+
+    80% {
+        transform: rotate3d(0, 1, 0, 360deg) rotate(45deg);
+    }
+
+    90% {
+        transform: rotate3d(0, 1, 0, 180deg) rotate(20deg);
+    }
+
+    100% {
+        transform: rotate3d(0, 1, 0, 360deg) rotate(10deg);
+    }
+}
