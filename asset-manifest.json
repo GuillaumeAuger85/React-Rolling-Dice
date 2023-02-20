@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Rolling-Dice/static/css/main.698caa67.css",
+    "main.js": "/React-Rolling-Dice/static/js/main.92e4d83f.js",
+    "static/js/787.cfbcf051.chunk.js": "/React-Rolling-Dice/static/js/787.cfbcf051.chunk.js",
+    "index.html": "/React-Rolling-Dice/index.html",
+    "main.698caa67.css.map": "/React-Rolling-Dice/static/css/main.698caa67.css.map",
+    "main.92e4d83f.js.map": "/React-Rolling-Dice/static/js/main.92e4d83f.js.map",
+    "787.cfbcf051.chunk.js.map": "/React-Rolling-Dice/static/js/787.cfbcf051.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.698caa67.css",
+    "static/js/main.92e4d83f.js"
+  ]
+}
