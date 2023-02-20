@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# React Rolling Dice
+
+**React State exercise.**
+
+## View it [here]( https://guillaumeauger85.github.io/React-Rolling-Dice/)!
+
+**Screenshot:**
+
+![RooingDice](https://user-images.githubusercontent.com/49698792/220147377-173eea0b-3b16-411a-9de2-054069b657bd.PNG)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
